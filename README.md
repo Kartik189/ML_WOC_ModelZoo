@@ -6,5 +6,5 @@ It involves using LinearRegression Algorithm to do so.
 3. Distributing data into Training And Testing Set.
 4. Training Our Model.
 5. Using it to test/predict data.
-6. Using R^2 method to test the efficiency of our model
+6. Using variance score to test the efficiency of our model
 
