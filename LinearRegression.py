@@ -34,8 +34,8 @@ lm.fit(x_train,y_train)
 print("INTERCEPT: ",lm.intercept_)
 print("COEFFICIENTS: ",lm.coef_)
 
-#Finding Efficiency of our model using R^2
-print("R^2",lm.score(x_test,y_test))
+#Finding Efficiency of our model using Estimated Variance Score
+print("Variance Score: ",lm.score(x_test,y_test))
 #Since we get R^2 score of 0.8438 it is a good fit to our data
 
 #Prediction/Testing of out model
