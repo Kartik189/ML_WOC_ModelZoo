@@ -5,7 +5,6 @@ from sklearn.preprocessing import StandardScaler
 import pandas as pd
 import numpy as np
 import scipy
-import seaborn as sns
 
 
 #Reading csv File On Fuel Consumptions
