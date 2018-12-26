@@ -8,3 +8,4 @@ It involves using LinearRegression Algorithm to do so.
 5. Using it to test/predict data.
 6. Using variance score to test the efficiency of our model
 
+Also, after using polynomial regression via pipelines we get a score R^2 score of 0.91 which is much better than what we got from our Linear Regression Model
